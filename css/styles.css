@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Raleway" sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   color: black;
   background: #ffffff;
 }
@@ -74,9 +74,9 @@ body {
   line-height: 1.87;
   color: #ffffff;
   display: flex;
-  letter-spacing: 0.06em
-  background-color: #2196F3;
-  align-items: center
+  letter-spacing: 0.06em;
+  background-color: #2196f3;
+  align-items: center;
   text-align: center;
   cursor: pointer;
 }
@@ -106,8 +106,8 @@ body {
 
 /*third section  */
 
-.third-section{
-  background-color: #F5F4FA
+.third-section {
+  background-color: #f5f4fa;
 }
 
 .third-section-3 {
@@ -117,7 +117,6 @@ body {
   color: #212121;
   text-align: center;
 }
-
 
 /*fourth section  */
 .fourth-section {
@@ -185,7 +184,7 @@ body {
   font-size: 16px;
   line-height: 1.625;
   font-weight: 500;
-  letter: spacing 0.03em;
+  letter-spacing: 0.03em;
   background-color: #f5f4fa;
   text-align: center;
   cursor: pointer;
@@ -207,8 +206,8 @@ body {
   font-size: 16px;
   line-height: 1.875;
 }
-.portfolio-card{
-border-width: 1px;
-border-color: #eee;  
-border-style: solid;
+.portfolio-card {
+  border-width: 1px;
+  border-color: #eee;
+  border-style: solid;
 }
